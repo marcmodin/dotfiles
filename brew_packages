@@ -1,0 +1,15 @@
+ansible
+awscli 
+bash
+git
+highlight
+htop
+nmap
+python
+python@3.8
+reattach-to-user-namespace
+terraform
+tmux
+tree
+zsh
+fzf
